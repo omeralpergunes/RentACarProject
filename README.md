@@ -33,3 +33,13 @@ Plugins I have used
 <h4> Rent A Car - Brands Changing the Incorrect Name </h4>
 
 ![HYUNDAİADD](https://user-images.githubusercontent.com/73720725/201491632-fe51deb1-fedb-492c-811b-1defc32538cd.png)
+
+<h4> Rent A Car - Brands Add </h4>
+
+![brandmeradd](https://user-images.githubusercontent.com/73720725/201491658-a8542e48-e743-43b0-89da-20781c9d1dc2.png)
+
+<h4> Rent A Car - Brands - GetAll 2 </h4>
+
+![brandmergetall](https://user-images.githubusercontent.com/73720725/201491669-3a06c99c-8a3b-44ac-9d6c-66d28acd79b7.png)
+
+
