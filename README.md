@@ -2,7 +2,7 @@
  
 # RENT A CAR PROJECT
 
-![graduation-hat](https://user-images.githubusercontent.com/73720725/201490746-91969c08-7c87-4f43-880e-876cfbc4579d.png width="512" height="512") 
+![graduation-hat](https://user-images.githubusercontent.com/73720725/201490746-91969c08-7c87-4f43-880e-876cfbc4579d.png) 
 
 
 Plugins I have used
