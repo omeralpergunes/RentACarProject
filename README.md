@@ -76,7 +76,7 @@
  
 ![rentalcarsget](https://user-images.githubusercontent.com/73720725/201492385-ce5103ce-9d4c-4e56-9ba6-f0a4ae746574.png)
 
- <h4> Rent A Car - Car Fuel Types - PostgreSQL-getAll </h4>
+ <h4> Rent A Car - Car Fuel Types - PostgreSQL(GetAll) </h4>
  
 ![carfuel](https://user-images.githubusercontent.com/73720725/201493944-641a90f9-b622-41a3-8692-b84eff8484c4.png)
 
