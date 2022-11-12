@@ -1,7 +1,10 @@
 package kodluyoruz.rentAcar1.business.concretes;
 
 import kodluyoruz.rentAcar1.business.abstracts.UserService;
+import kodluyoruz.rentAcar1.business.requests.saveRequests.SaveCarRequestDto;
+import kodluyoruz.rentAcar1.business.requests.saveRequests.SaveUserRequestDto;
 import kodluyoruz.rentAcar1.business.responses.UserResponseDto;
+import kodluyoruz.rentAcar1.entities.Car;
 import kodluyoruz.rentAcar1.entities.User;
 import kodluyoruz.rentAcar1.repository.UserRepository;
 import org.modelmapper.ModelMapper;
@@ -31,5 +34,12 @@ public class UserManager implements UserService {
         }
         return userResponseDtos;
     }
-    }
+
+    @Override
+    public void add(SaveUserRequestDto saveUserRequestDto, Integer userId) {
+            User user = modelMapper.map(saveUserRequestDto, User.class);
+            user=userRepository.save(user);
+
+        }
+}
 
