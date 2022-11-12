@@ -43,3 +43,21 @@ Plugins I have used
 ![brandmergetall](https://user-images.githubusercontent.com/73720725/201491669-3a06c99c-8a3b-44ac-9d6c-66d28acd79b7.png)
 
 
+<h4> Rent A Car - CorporateCustomer - Add </h4>
+
+![corporateadd](https://user-images.githubusercontent.com/73720725/201491727-3eb2e689-fcb6-43e8-a224-12d90a094ae7.png)
+
+<h4> Rent A Car - Corporate Customer - GetAll </h4>
+
+![corporategetAll](https://user-images.githubusercontent.com/73720725/201491740-833c708b-3bb1-49d2-a861-cf8361eb2300.png)
+
+<h4> Rent A Car - Individual Customer - Add </h4>
+
+![indiviadd](https://user-images.githubusercontent.com/73720725/201491750-915505aa-03a9-4d9d-843a-96f4c24ff08b.png)
+
+<h4><b> Rent A Car - Individual Customer - GetAll  <b></h4>
+ 
+![indivigetall](https://user-images.githubusercontent.com/73720725/201491762-c83ef47e-f183-4f28-99d0-bfc187a751a1.png)
+
+
+
