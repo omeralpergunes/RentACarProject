@@ -18,10 +18,10 @@ Plugins I have used
 
 
 
-<h4> Images from the project </h4>
+<h3> Images from the project </h3>
 
 
-<h5> Rent A Car - Brands GetAll </h5>
+<h4> Rent A Car - Brands GetAll </h4>
 
 ![brandsgetall](https://user-images.githubusercontent.com/73720725/201490860-d63bd314-b748-491c-95d9-8ac174b42083.png)
 
