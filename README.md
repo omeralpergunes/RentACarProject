@@ -1,8 +1,9 @@
 # KODLUYORUZ - FIRAT DEVELOPMENT AGENCY - GRADUATION PROJECT
  
-# RENT A CAR PROJECT
+# ![Adsız tasarım (13)](https://user-images.githubusercontent.com/73720725/201490796-70d6e15a-5d10-4191-9966-98a99a0b0f15.png)
+RENT A CAR PROJECT
 
-![graduation-hat](https://user-images.githubusercontent.com/73720725/201490746-91969c08-7c87-4f43-880e-876cfbc4579d.png) 
+
 
 
 Plugins I have used
