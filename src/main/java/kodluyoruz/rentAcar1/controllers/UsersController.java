@@ -1,13 +1,13 @@
 package kodluyoruz.rentAcar1.controllers;
 
 import kodluyoruz.rentAcar1.business.abstracts.UserService;
+import kodluyoruz.rentAcar1.business.requests.saveRequests.SaveCarRequestDto;
+import kodluyoruz.rentAcar1.business.requests.saveRequests.SaveUserRequestDto;
 import kodluyoruz.rentAcar1.business.responses.UserResponseDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -23,6 +23,12 @@ public class UsersController {
     {
         List<UserResponseDto> userResponseDtos = userService.getAll();
         return new ResponseEntity<>(userResponseDtos, HttpStatus.OK);
+    }
+
+    @PostMapping("/add")
+    public ResponseEntity<Void> add(@RequestBody SaveUserRequestDto saveUserRequestDto, Integer userId){
+        this.userService.add(saveUserRequestDto, userId);
+        return new ResponseEntity<>(HttpStatus.CREATED);
     }
 
 }
