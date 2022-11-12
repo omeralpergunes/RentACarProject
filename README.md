@@ -59,11 +59,13 @@
  
 ![indivigetall](https://user-images.githubusercontent.com/73720725/201491762-c83ef47e-f183-4f28-99d0-bfc187a751a1.png)
 
+ <h4> Rent A Car - Customers - GetAll </h4>
+ 
+ ![customers](https://user-images.githubusercontent.com/73720725/201492163-f05be10d-38c4-48f5-912f-0e68a0fb3e47.png)
+ 
  <h4> Rent A Car - Cars - GetAll </h4>
  
  ![bitirme1](https://user-images.githubusercontent.com/73720725/201492045-d2bf1498-ec06-4460-8f11-232811e995a0.png)
 
- 
- 
 
 
