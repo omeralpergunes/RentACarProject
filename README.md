@@ -43,7 +43,7 @@ Plugins I have used
 ![brandmergetall](https://user-images.githubusercontent.com/73720725/201491669-3a06c99c-8a3b-44ac-9d6c-66d28acd79b7.png)
 
 
-<h4> Rent A Car - CorporateCustomer - Add </h4>
+<h4> Rent A Car - Corporate Customer - Add </h4>
 
 ![corporateadd](https://user-images.githubusercontent.com/73720725/201491727-3eb2e689-fcb6-43e8-a224-12d90a094ae7.png)
 
