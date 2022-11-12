@@ -26,3 +26,10 @@ Plugins I have used
 ![brandsgetall](https://user-images.githubusercontent.com/73720725/201490860-d63bd314-b748-491c-95d9-8ac174b42083.png)
 
 
+<h4> Rent A Car - Brands Error Brand Name </h4>
+
+![HYUNDAİgetAll](https://user-images.githubusercontent.com/73720725/201491599-9bdf0048-edec-4ea5-9de6-0e56c44e94ac.png)
+
+<h4> Rent A Car - Brands Changing the Incorrect Name </h4>
+
+![HYUNDAİADD](https://user-images.githubusercontent.com/73720725/201491632-fe51deb1-fedb-492c-811b-1defc32538cd.png)
