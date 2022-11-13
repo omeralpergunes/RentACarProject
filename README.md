@@ -12,6 +12,7 @@
     • MODEL MAPPER ✨
     • SPRING WEB ✨
     • POSTGRE SQL ✨
+    • VALIDATION ✨
     • H2 Database(used a few times) ✨
     • SPRING BOOT DEVTOOLS ✨
 
